@@ -1,0 +1,1 @@
+#usinf python for automation but we can use ansible for the automation rather than python code
